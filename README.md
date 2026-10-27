@@ -21,11 +21,11 @@
 **Download**
 <div align="center">
     <a href="https://telegram.me/muziinap/3">
-    <img src="https://github.com/squiraldot/MuziiNap-Official/blob/main/asset/20260623_032118.png" width="160"></a>
+    <img src="https://raw.githubusercontent.com/squiraldot/MuziiNap-Official/blob/main/asset/20260623_032118.png" width="160"></a>
   <a href="https://github.com/squiraldot/MuziiNap-Official/releases">
     <img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="160"></a></div>
   
-  ![Latest release](https://custom-icon-badges.demolab.com/github/v/release/squiraldot/MuziiNap-Official?logo=muziinap&style=plastic)
+  ![Latest release](https://custom-icon-badges.demolab.com/github/v/release/squiraldot/MuziiNap-Official?logo=muziinap-logo&style=plastic)
   ![stars](https://custom-icon-badges.demolab.com/github/stars/squiraldot/MuziiNap-Official?logo=star&style=plastic)
   ![Downloads](https://custom-icon-badges.demolab.com/github/downloads/squiraldot/MuziiNap-Official/total?logo=download&style=plastic)</div>
 
