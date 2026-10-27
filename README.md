@@ -11,7 +11,7 @@
     <a href="https://telegram.me/muziinap/3">
     <img src="https://raw.githubusercontent.com/squiraldot/MuziiNap-Official/refs/heads/main/assets/20260623_032118.png" width="160"></a></div>
   
-  ![Latest release](https://custom-icon-badges.demolab.com/github/v/release/squiraldot/MuziiNap-Official?logo=muziinap-logo&style=plastic)
+  ![Latest release)](https://custom-icon-badges.demolab.com/github/v/release/squiraldot/MuziiNap-Official?include_prereleases&logo=muziinap-logo&style=plastic)
   ![stars](https://custom-icon-badges.demolab.com/github/stars/squiraldot/MuziiNap-Official?logo=star&style=plastic)</div>
 
 > [!IMPORTANT]
